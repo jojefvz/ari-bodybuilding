@@ -1,1 +1,1 @@
-# ari-bodybuilding
+# Website for Ari's personal training business
